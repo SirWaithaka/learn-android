@@ -4,7 +4,7 @@ e.g. make a button circular or adding a border radius to a card view, button or 
 Making use of android shapes in xml helps achieve such a look.
 
 Original Design Image of all examples
-![Design]()
+![Design](https://github.com/SirWaithaka/learn-android/blob/master/assets/design/Original.png)
 
 ## Examples
 So here is something i needed to achieve in a certain design
