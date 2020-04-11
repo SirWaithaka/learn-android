@@ -5,4 +5,4 @@ Making use of android shapes in xml helps achieve such a look.
 
 ## Examples
 So here is something i needed to achieve in a certain design
-[Original Design]: https://github.com/sirwaithaka/learn-android/assets/shapes/circular_buttons.png "Original Design"
+![Original Design](https://github.com/sirwaithaka/learn-android/assets/shapes/circular_buttons.png)
